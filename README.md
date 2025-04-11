@@ -1,7 +1,7 @@
 # CalcIMC-PAM
 Tarefa de PAMII Calculadora de IMC em React Native
 
-## Como instalar
+## Como baixar ou clonar 
 1. Ir no terminal com o git baixado e executar git clone com o link https://github.com/Alvesxz0/CalcIMC-PAM.git
 2. Usar o comando cd para entrar no repositório clonado
 3. Execute o comando npm install
