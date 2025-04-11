@@ -1,6 +1,9 @@
 # CalcIMC-PAM
 Tarefa de PAMII Calculadora de IMC em React Native
 
+## Como instalar
+1. 
+
 ## Funcionamento e objetivos
 - O aplicativo consiste em calcular o IMC com base no peso e na altura.
 - Além disso, ele retorna o IMC calculado, a classificação do peso com base no IMC e o peso ideal mínimo e máximo.
